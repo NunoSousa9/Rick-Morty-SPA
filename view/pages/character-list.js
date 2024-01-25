@@ -6,7 +6,7 @@ import { hasParameter } from '../../navigation.js';
 import { characters as route } from '../../routes.js';
 
 const TITLE = 'Rick and Morty';
-const BANNER_IMG = '../../assets/dark.jpg';
+const BANNER_IMG = '../../assets/Dark.jpg';
 
 export default function ({ pagination, characters }) {
     const container = $('#container')
