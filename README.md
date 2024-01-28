@@ -25,7 +25,7 @@ Welcome to Rick&Morty SPA, a dynamic, dark themed web application designed as a 
 
 ## **Live Demo:**
 
--**Check it for yourself here:** 
+-**Deployed with Vercel.com, check it yourself here:** [Rick&Morty_SPA](https://rick-morty-spa-xu97.vercel.app/).
 
 ## **ScreenShots:**
 
