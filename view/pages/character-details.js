@@ -2,7 +2,7 @@ import banner from '../components/banner.js';
 import button from '../components/button.js';
 import { goBack } from '../../navigation.js';
 
-const BANNER_IMG = '../../assets/Dark.jpg';
+const BANNER_IMG = '../../assets/dark.jpg';
 
 const paragraph = content => $('<p>').text(content);
 
